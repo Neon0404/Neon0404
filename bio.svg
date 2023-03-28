@@ -1,0 +1,217 @@
+<!-- https://github.com/DenverCoder1/readme-typing-svg/ -->
+<svg xmlns='http://www.w3.org/2000/svg'
+    xmlns:xlink='http://www.w3.org/1999/xlink'
+    viewBox='0 0 300 560'
+    style='background-color: #00000000;'
+    width='300px' height='560px'>
+
+    
+                <path id='path0'>
+                            <!-- Multiline -->
+                                <animate id='d0' attributeName='d' begin='0s'
+                    dur='700ms' fill="freeze"
+                    values='m0,25 h0 ; m0,25 h0 ; m0,25 h300 ; m0,25 h300' keyTimes='0;0;0.71428571428571;1' />
+                    </path>
+    <text font-family='"", monospace' fill='#36BCF7' font-size='20'
+        dominant-baseline='auto'
+        x='0%' text-anchor='start'>
+        <textPath xlink:href='#path0'>
+             &gt; node bio.js
+        </textPath>
+    </text>
+        <path id='path1'>
+                            <!-- Multiline -->
+                                <animate id='d1' attributeName='d' begin='0s'
+                    dur='1400ms' fill="freeze"
+                    values='m0,50 h0 ; m0,50 h0 ; m0,50 h300 ; m0,50 h300' keyTimes='0;0.5;0.85714285714286;1' />
+                    </path>
+    <text font-family='"", monospace' fill='#36BCF7' font-size='20'
+        dominant-baseline='auto'
+        x='0%' text-anchor='start'>
+        <textPath xlink:href='#path1'>
+             &gt; {
+        </textPath>
+    </text>
+        <path id='path2'>
+                            <!-- Multiline -->
+                                <animate id='d2' attributeName='d' begin='0s'
+                    dur='2100ms' fill="freeze"
+                    values='m0,75 h0 ; m0,75 h0 ; m0,75 h300 ; m0,75 h300' keyTimes='0;0.66666666666667;0.9047619047619;1' />
+                    </path>
+    <text font-family='"", monospace' fill='#36BCF7' font-size='20'
+        dominant-baseline='auto'
+        x='0%' text-anchor='start'>
+        <textPath xlink:href='#path2'>
+             &gt;   &quot;main&quot;: {
+        </textPath>
+    </text>
+        <path id='path3'>
+                            <!-- Multiline -->
+                                <animate id='d3' attributeName='d' begin='0s'
+                    dur='2800ms' fill="freeze"
+                    values='m0,100 h0 ; m0,100 h0 ; m0,100 h300 ; m0,100 h300' keyTimes='0;0.75;0.92857142857143;1' />
+                    </path>
+    <text font-family='"", monospace' fill='#36BCF7' font-size='20'
+        dominant-baseline='auto'
+        x='0%' text-anchor='start'>
+        <textPath xlink:href='#path3'>
+             &gt;     &quot;name&quot;: &quot;Kirill&quot;,
+        </textPath>
+    </text>
+        <path id='path4'>
+                            <!-- Multiline -->
+                                <animate id='d4' attributeName='d' begin='0s'
+                    dur='3500ms' fill="freeze"
+                    values='m0,125 h0 ; m0,125 h0 ; m0,125 h300 ; m0,125 h300' keyTimes='0;0.8;0.94285714285714;1' />
+                    </path>
+    <text font-family='"", monospace' fill='#36BCF7' font-size='20'
+        dominant-baseline='auto'
+        x='0%' text-anchor='start'>
+        <textPath xlink:href='#path4'>
+             &gt;     &quot;age&quot;: 16
+        </textPath>
+    </text>
+        <path id='path5'>
+                            <!-- Multiline -->
+                                <animate id='d5' attributeName='d' begin='0s'
+                    dur='4200ms' fill="freeze"
+                    values='m0,150 h0 ; m0,150 h0 ; m0,150 h300 ; m0,150 h300' keyTimes='0;0.83333333333333;0.95238095238095;1' />
+                    </path>
+    <text font-family='"", monospace' fill='#36BCF7' font-size='20'
+        dominant-baseline='auto'
+        x='0%' text-anchor='start'>
+        <textPath xlink:href='#path5'>
+             &gt;  },
+        </textPath>
+    </text>
+        <path id='path6'>
+                            <!-- Multiline -->
+                                <animate id='d6' attributeName='d' begin='0s'
+                    dur='4900ms' fill="freeze"
+                    values='m0,175 h0 ; m0,175 h0 ; m0,175 h300 ; m0,175 h300' keyTimes='0;0.85714285714286;0.95918367346939;1' />
+                    </path>
+    <text font-family='"", monospace' fill='#36BCF7' font-size='20'
+        dominant-baseline='auto'
+        x='0%' text-anchor='start'>
+        <textPath xlink:href='#path6'>
+             &gt;   &quot;location&quot;: {
+        </textPath>
+    </text>
+        <path id='path7'>
+                            <!-- Multiline -->
+                                <animate id='d7' attributeName='d' begin='0s'
+                    dur='5600ms' fill="freeze"
+                    values='m0,200 h0 ; m0,200 h0 ; m0,200 h300 ; m0,200 h300' keyTimes='0;0.875;0.96428571428571;1' />
+                    </path>
+    <text font-family='"", monospace' fill='#36BCF7' font-size='20'
+        dominant-baseline='auto'
+        x='0%' text-anchor='start'>
+        <textPath xlink:href='#path7'>
+             &gt;     &quot;country&quot;: &quot;Russia&quot;,
+        </textPath>
+    </text>
+        <path id='path8'>
+                            <!-- Multiline -->
+                                <animate id='d8' attributeName='d' begin='0s'
+                    dur='6300ms' fill="freeze"
+                    values='m0,225 h0 ; m0,225 h0 ; m0,225 h300 ; m0,225 h300' keyTimes='0;0.88888888888889;0.96825396825397;1' />
+                    </path>
+    <text font-family='"", monospace' fill='#36BCF7' font-size='20'
+        dominant-baseline='auto'
+        x='0%' text-anchor='start'>
+        <textPath xlink:href='#path8'>
+             &gt;     &quot;city&quot;: &quot;Surgut&quot;
+        </textPath>
+    </text>
+        <path id='path9'>
+                            <!-- Multiline -->
+                                <animate id='d9' attributeName='d' begin='0s'
+                    dur='7000ms' fill="freeze"
+                    values='m0,250 h0 ; m0,250 h0 ; m0,250 h300 ; m0,250 h300' keyTimes='0;0.9;0.97142857142857;1' />
+                    </path>
+    <text font-family='"", monospace' fill='#36BCF7' font-size='20'
+        dominant-baseline='auto'
+        x='0%' text-anchor='start'>
+        <textPath xlink:href='#path9'>
+             &gt;  },
+        </textPath>
+    </text>
+        <path id='path10'>
+                            <!-- Multiline -->
+                                <animate id='d10' attributeName='d' begin='0s'
+                    dur='7700ms' fill="freeze"
+                    values='m0,275 h0 ; m0,275 h0 ; m0,275 h300 ; m0,275 h300' keyTimes='0;0.90909090909091;0.97402597402597;1' />
+                    </path>
+    <text font-family='"", monospace' fill='#36BCF7' font-size='20'
+        dominant-baseline='auto'
+        x='0%' text-anchor='start'>
+        <textPath xlink:href='#path10'>
+             &gt;   &quot;education&quot;: {
+        </textPath>
+    </text>
+        <path id='path11'>
+                            <!-- Multiline -->
+                                <animate id='d11' attributeName='d' begin='0s'
+                    dur='8400ms' fill="freeze"
+                    values='m0,300 h0 ; m0,300 h0 ; m0,300 h300 ; m0,300 h300' keyTimes='0;0.91666666666667;0.97619047619048;1' />
+                    </path>
+    <text font-family='"", monospace' fill='#36BCF7' font-size='20'
+        dominant-baseline='auto'
+        x='0%' text-anchor='start'>
+        <textPath xlink:href='#path11'>
+             &gt;     &quot;type&quot;: &quot;college&quot;,
+        </textPath>
+    </text>
+        <path id='path12'>
+                            <!-- Multiline -->
+                                <animate id='d12' attributeName='d' begin='0s'
+                    dur='9100ms' fill="freeze"
+                    values='m0,325 h0 ; m0,325 h0 ; m0,325 h300 ; m0,325 h300' keyTimes='0;0.92307692307692;0.97802197802198;1' />
+                    </path>
+    <text font-family='"", monospace' fill='#36BCF7' font-size='20'
+        dominant-baseline='auto'
+        x='0%' text-anchor='start'>
+        <textPath xlink:href='#path12'>
+             &gt;     &quot;course&quot;: 1
+        </textPath>
+    </text>
+        <path id='path13'>
+                            <!-- Multiline -->
+                                <animate id='d13' attributeName='d' begin='0s'
+                    dur='9800ms' fill="freeze"
+                    values='m0,350 h0 ; m0,350 h0 ; m0,350 h300 ; m0,350 h300' keyTimes='0;0.92857142857143;0.97959183673469;1' />
+                    </path>
+    <text font-family='"", monospace' fill='#36BCF7' font-size='20'
+        dominant-baseline='auto'
+        x='0%' text-anchor='start'>
+        <textPath xlink:href='#path13'>
+             &gt;  },
+        </textPath>
+    </text>
+        <path id='path14'>
+                            <!-- Multiline -->
+                                <animate id='d14' attributeName='d' begin='0s'
+                    dur='10500ms' fill="freeze"
+                    values='m0,375 h0 ; m0,375 h0 ; m0,375 h300 ; m0,375 h300' keyTimes='0;0.93333333333333;0.98095238095238;1' />
+                    </path>
+    <text font-family='"", monospace' fill='#36BCF7' font-size='20'
+        dominant-baseline='auto'
+        x='0%' text-anchor='start'>
+        <textPath xlink:href='#path14'>
+             &gt;   &quot;hobbies&quot;: [...]
+        </textPath>
+    </text>
+        <path id='path15'>
+                            <!-- Multiline -->
+                                <animate id='d15' attributeName='d' begin='0s'
+                    dur='11200ms' fill="freeze"
+                    values='m0,400 h0 ; m0,400 h0 ; m0,400 h300 ; m0,400 h300' keyTimes='0;0.9375;0.98214285714286;1' />
+                    </path>
+    <text font-family='"", monospace' fill='#36BCF7' font-size='20'
+        dominant-baseline='auto'
+        x='0%' text-anchor='start'>
+        <textPath xlink:href='#path15'>
+             &gt; }
+        </textPath>
+    </text>
+</svg>
